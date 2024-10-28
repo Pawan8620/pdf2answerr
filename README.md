@@ -59,6 +59,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Google Drive API documentation](https://developers.google.com/drive)
 - [Mistral AI documentation](https://mistral.ai/docs)
 - [FastAPI documentation](https://fastapi.tiangolo.com/)
-```
-
-Feel free to copy this markdown directly into your README file. It includes all the necessary sections with proper formatting for headings, bullet points, and code blocks.
